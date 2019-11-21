@@ -68,3 +68,10 @@
 ## Riuso del software e open-source
 
 * rtd [Linee guida riuso del software e opensource](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/)
+
+# Altri documenti in consultazione
+
+* [Qualificazione Servizi SaaS per il Cloud della PA
+](https://forum.italia.it/c/documenti-in-consultazione/qualificazione-servizi-saas-per-il-cloud-della-pa)
+* [Qualificazione dei Cloud Service Provider](https://forum.italia.it/c/documenti-in-consultazione/qualificazione-dei-cloud-service-provider)
+
