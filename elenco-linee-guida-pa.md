@@ -78,7 +78,6 @@
 * (link da cercare) Linee guida e-leadership
 * (link da cercare) Linee guida storytelling dei servizi digitali
 * (link da cercare) Linee guida per il marketing dei servizi digitali
-* (link da cercare) 
 
 # Altri documenti in consultazione
 
