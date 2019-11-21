@@ -1,4 +1,4 @@
-## Legeda
+## Legenda
 * pdf - documento pdf
 * rtd - read the docs
 
@@ -16,7 +16,13 @@
 
 ## Documento Informatico, Fascicolazione, Conservazione
 
-* da completare
+* (link da cercare) Linee guida documento informatico
+* (link da cercare) Lineee guida la costituzione, l'identificazione, l'accessibilità del fasciolo informatico
+* (link da cercare) Linee guida per la conservazione del documento informatico
+* (link da cercare) Linee guida per la formazione e conservazione su supporti informatici dei pubblici registri immobiliari
+* (link da cercare) Linee guida per il contrassegno informatico
+* (link da cercare) Linee guida per il trasferimento in via telematica di fondi tra le pubbliche amministrazioni e tra queste e soggetti privati
+* (link da cercare) Linee guida per la dematerializzazione dei documenti delle pubbliche amministrazioni
 
 ## Firme digitali e servizi fiduciari
 
@@ -26,7 +32,11 @@
 
 ## Dati Pubblici/gestione e analisi dei dati pubblici
 
-* da completare
+* (link da cercare) Linee guida per l'analisi dei dati delle pubbliche amministrazioni
+* Linee guuida per la condivisione dei dati tra le pubbliche amministrazioni
+* Linee guida per le basi di dati di interesse nazionale
+* Linee guida per la protezione, l'accessibilità, l'integrità e la riservatezza dei dati
+* Linee guida per il Repertorio nazionale dei dati territoriali
 
 ## Interoperabilità e strumenti per accesso ai servizi pubblici
 
