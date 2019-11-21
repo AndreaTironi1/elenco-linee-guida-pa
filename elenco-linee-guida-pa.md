@@ -25,7 +25,7 @@
 
 ## Risparmi derivanti dal digitale
 
-* (non trovato link) Linee guida per i risparmi dei costi e delle economie derivanti dalla razionalizzazione prevista dall'articolo 15 comma 2 e per la loro quantificazione annuale
+* (link non trovato) Linee guida per i risparmi dei costi e delle economie derivanti dalla razionalizzazione prevista dall'articolo 15 comma 2 e per la loro quantificazione annuale
 
 ## Wi-fi pubblico
 
@@ -33,7 +33,7 @@
 
 ## Domicilio Digitale
 
-* (non trovato link) Linee guida per l'elezioni domicili digitali delle persone fisiche
+* (link non trovato) Linee guida per l'elezioni domicili digitali delle persone fisiche
 * rtd [Linee guida dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/)
 
 ## Riuso del software e open-source
