@@ -7,16 +7,30 @@
 
 ## Linee guida Piattaforme
 
-* [Linee guida per la specifica dei codici identificativi del pagamento - pagoPA](https://www.agid.gov.it/it/piattaforme/pagopa/linee-guida-documentazione-tecnica)
-* [Linee guida su OpenID Connect in SPID](https://docs.italia.it/AgID/documenti-in-consultazione/lg-openidconnect-spid-docs/it/bozza/)
-* [Linee guida per la realizzazione di un modello RAO pubblico - Spid ](https://docs.italia.it/AgID/documenti-in-consultazione/lg-modello-rao-docs/it/bozza/LineeGuidaRAO.html)
+* pdf [Linee guida per la specifica dei codici identificativi del pagamento - pagoPA](https://www.agid.gov.it/it/piattaforme/pagopa/linee-guida-documentazione-tecnica)
+* rtd [Linee guida su OpenID Connect in SPID](https://docs.italia.it/AgID/documenti-in-consultazione/lg-openidconnect-spid-docs/it/bozza/)
+* rtd [Linee guida per la realizzazione di un modello RAO pubblico - Spid ](https://docs.italia.it/AgID/documenti-in-consultazione/lg-modello-rao-docs/it/bozza/LineeGuidaRAO.html)
 
 ## Documento Informatico, Fascicolazione, Conservazione
 
+## Sicurezza Cybernetica
+
+* rtd [Linee guida Sicurezza nel procurement ICT](https://docs.italia.it/AgID/documenti-in-consultazione/lg-procurement-ict/it/bozza/)
+* pdf [Linee guida per la continuità operativa](https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/linee-guida-dr.pdf)
+
+## Risparmi derivanti dal digitale
+
+* (non trovato link) Linee guida per i risparmi dei costi e delle economie derivanti dalla razionalizzazione prevista dall'articolo 15 comma 2 e per la loro quantificazione annuale
+
 ## Wi-fi pubblico
 
-* [Linee guida per l’erogazione del servizio pubblico wi-fi free](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/)
+* rtd [Linee guida per l’erogazione del servizio pubblico wi-fi free](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/)
+
+## Domicilio Digitale
+
+* (non trovato link) Linee guida per l'elezioni domicili digitali delle persone fisiche
+* rtd [Linee guida dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/)
 
 ## Riuso del software e open-source
 
-* [Linee guida riuso del software e opensource](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/)
+* rtd [Linee guida riuso del software e opensource](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/)
