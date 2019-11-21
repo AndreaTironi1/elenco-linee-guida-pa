@@ -18,8 +18,8 @@
 
 ## Interoperabilità e strumenti per accesso ai servizi pubblici
 
-* [Linee guida del modello di interoperabilità](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/)
-* [Linee guida sull'accessibilità degli strumenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it)
+* rtd [Linee guida del modello di interoperabilità](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/)
+* rtd [Linee guida sull'accessibilità degli strumenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it)
 
 ## Sicurezza Cybernetica
 
