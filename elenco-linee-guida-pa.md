@@ -16,9 +16,19 @@
 
 ## Documento Informatico, Fascicolazione, Conservazione
 
+## Firme digitali e servizi fiduciari
+
+* pdf [Linee guida contenenti le Regole Tecniche e Raccomandazioni afferenti la generazione di certificati  elettronici qualificati, firme e sigilli elettronici qualificati e validazioni temporali elettroniche qualificate](https://www.agid.gov.it/sites/default/files/repository_files/regole_tecniche_e_raccomandazioni_v1.1_0.pdf)
+* (link non trovato) Linee guida per i servizi fiduciari
+* pdf [Linee guida posta elettronica certificata](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/linee_guida_vigilanza_gestori_pec_1.0_18-11-2009.pdf)
+
+## Dati Pubblici/gestione e analisi dei dati pubblici
+
 ## Interoperabilità e strumenti per accesso ai servizi pubblici
 
 * rtd [Linee guida del modello di interoperabilità](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/)
+* (link non trovato) Trasmissione dei documenti tra pubbliche amministrazioni
+* (link non trovato) Linee guida per il punto di accesso telematico ai servizi in rete della PA attivato presso la Presidenza del Consiglio dei Ministri
 * rtd [Linee guida sull'accessibilità degli strumenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it)
 
 ## Sicurezza Cybernetica
