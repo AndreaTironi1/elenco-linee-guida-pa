@@ -13,6 +13,7 @@
 * pdf [Linee guida per la specifica dei codici identificativi del pagamento - pagoPA](https://www.agid.gov.it/it/piattaforme/pagopa/linee-guida-documentazione-tecnica)
 * rtd [Linee guida su OpenID Connect in SPID](https://docs.italia.it/AgID/documenti-in-consultazione/lg-openidconnect-spid-docs/it/bozza/)
 * rtd [Linee guida per la realizzazione di un modello RAO pubblico - Spid ](https://docs.italia.it/AgID/documenti-in-consultazione/lg-modello-rao-docs/it/bozza/LineeGuidaRAO.html)
+* rtd [SPID - Rilascio id digitale uso professionale](https://forum.italia.it/c/documenti-in-consultazione/lg-spid-rilascio-identita-digitale-uso-professionale)
 
 ## Documento Informatico, Fascicolazione, Conservazione
 
@@ -33,10 +34,10 @@
 ## Dati Pubblici/gestione e analisi dei dati pubblici
 
 * (link da cercare) Linee guida per l'analisi dei dati delle pubbliche amministrazioni
-* Linee guuida per la condivisione dei dati tra le pubbliche amministrazioni
-* Linee guida per le basi di dati di interesse nazionale
-* Linee guida per la protezione, l'accessibilità, l'integrità e la riservatezza dei dati
-* Linee guida per il Repertorio nazionale dei dati territoriali
+* (link da cercare) Linee guuida per la condivisione dei dati tra le pubbliche amministrazioni
+* (link da cercare) Linee guida per le basi di dati di interesse nazionale
+* (link da cercare) Linee guida per la protezione, l'accessibilità, l'integrità e la riservatezza dei dati
+* (link da cercare) Linee guida per il Repertorio nazionale dei dati territoriali
 
 ## Interoperabilità e strumenti per accesso ai servizi pubblici
 
@@ -69,9 +70,22 @@
 
 * rtd [Linee guida riuso del software e opensource](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/)
 
+## Altre linee guida
+
+* (link da cercare) Linee guida promozione servizi digitali
+* (link da cercare) Linee guida qualificazioni ICT
+* (link da cercare) Linee guida professioni ICT
+* (link da cercare) Linee guida e-leadership
+* (link da cercare) Linee guida storytelling dei servizi digitali
+* (link da cercare) Linee guida per il marketing dei servizi digitali
+* (link da cercare) 
+
 # Altri documenti in consultazione
 
-* [Qualificazione Servizi SaaS per il Cloud della PA
-](https://forum.italia.it/c/documenti-in-consultazione/qualificazione-servizi-saas-per-il-cloud-della-pa)
-* [Qualificazione dei Cloud Service Provider](https://forum.italia.it/c/documenti-in-consultazione/qualificazione-dei-cloud-service-provider)
+## Qualificazioni
+* (link da cercare)Qualificazione Servizi SaaS per il Cloud della PA
+* (link da cercare) Qualificazione dei Cloud Service Provider
+
+## Guide tecniche
+* [Guida tecnica all’uso di metriche per il software](https://forum.italia.it/c/documenti-in-consultazione/guida-tecnica-all-uso-di-metriche-per-il-software)
 
