@@ -3,7 +3,7 @@
 
 * Codice Amministrazione Digitale
 
-#Linee Guida
+# Linee Guida
 
 ## Linee guida Piattaforme
 
