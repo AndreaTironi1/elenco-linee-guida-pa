@@ -82,7 +82,7 @@
 # Altri documenti in consultazione
 
 ## Qualificazioni
-* (link da cercare)Qualificazione Servizi SaaS per il Cloud della PA
+* (link da cercare) Qualificazione Servizi SaaS per il Cloud della PA
 * (link da cercare) Qualificazione dei Cloud Service Provider
 
 ## Guide tecniche
