@@ -20,6 +20,8 @@
 
 * rtd [Linee guida Sicurezza nel procurement ICT](https://docs.italia.it/AgID/documenti-in-consultazione/lg-procurement-ict/it/bozza/)
 * pdf [Linee guida per la continuità operativa](https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/linee-guida-dr.pdf)
+* rtd [Linee guida per lo sviluppo e la definizione del modello nazionale di riferimento per i CERT regionali](https://docs.italia.it/AgID/documenti-in-consultazione/lg-cert-regionali/it/)
+* (link non trovato) Linee guida per il sistema pubblico di connettività SPC e della sicurezza di rete in SP
 
 ## Risparmi derivanti dal digitale
 
