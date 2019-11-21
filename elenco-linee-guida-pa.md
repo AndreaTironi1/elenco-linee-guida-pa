@@ -12,3 +12,7 @@
 * [Linee guida per la realizzazione di un modello RAO pubblico - Spid ](https://docs.italia.it/AgID/documenti-in-consultazione/lg-modello-rao-docs/it/bozza/LineeGuidaRAO.html)
 
 ## Documento Informatico, Fascicolazione, Conservazione
+
+## Wi-fi pubblico
+
+* [Linee guida per l’erogazione del servizio pubblico wi-fi free](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/)
