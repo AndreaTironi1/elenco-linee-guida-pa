@@ -16,6 +16,8 @@
 
 ## Documento Informatico, Fascicolazione, Conservazione
 
+* da completare
+
 ## Firme digitali e servizi fiduciari
 
 * pdf [Linee guida contenenti le Regole Tecniche e Raccomandazioni afferenti la generazione di certificati  elettronici qualificati, firme e sigilli elettronici qualificati e validazioni temporali elettroniche qualificate](https://www.agid.gov.it/sites/default/files/repository_files/regole_tecniche_e_raccomandazioni_v1.1_0.pdf)
@@ -23,6 +25,8 @@
 * pdf [Linee guida posta elettronica certificata](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/linee_guida_vigilanza_gestori_pec_1.0_18-11-2009.pdf)
 
 ## Dati Pubblici/gestione e analisi dei dati pubblici
+
+* da completare
 
 ## Interoperabilità e strumenti per accesso ai servizi pubblici
 
