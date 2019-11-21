@@ -1,7 +1,10 @@
-  
+## Legeda
+* pdf - documento pdf
+* rtd - read the docs
+
 # La base
 
-* [Codice Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/)
+* rtd [Codice Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/)
 
 # Linee Guida
 
