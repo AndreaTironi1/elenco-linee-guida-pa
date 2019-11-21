@@ -15,4 +15,8 @@
 
 ## Wi-fi pubblico
 
-* [Linee guida per l’erogazione del servizio pubblico wi-fi free](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/)
+* [Linee guida per l’erogazione del servizio pubblico wi-fi free](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/)
+
+## Riuso del software e open-source
+
+* [Linee guida riuso del software e opensource](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/)
