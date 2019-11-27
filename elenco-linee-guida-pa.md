@@ -11,11 +11,21 @@
 ## Linee guida Piattaforme
 
 * pdf [Linee guida per la specifica dei codici identificativi del pagamento - pagoPA](https://www.agid.gov.it/it/piattaforme/pagopa/linee-guida-documentazione-tecnica)
+* (link da cercare) Linee guida per l'indentificazione degli uteni da parte delle PA - SPID
 * rtd [Linee guida su OpenID Connect in SPID](https://docs.italia.it/AgID/documenti-in-consultazione/lg-openidconnect-spid-docs/it/bozza/)
+* (link da cercare) Linee guida per la sottoscrizione elettronica di documenti tramite SPID
+
+altro 
+
 * rtd [Linee guida per la realizzazione di un modello RAO pubblico - Spid ](https://docs.italia.it/AgID/documenti-in-consultazione/lg-modello-rao-docs/it/bozza/LineeGuidaRAO.html)
 * rtd [SPID - Rilascio id digitale uso professionale](https://forum.italia.it/c/documenti-in-consultazione/lg-spid-rilascio-identita-digitale-uso-professionale)
 
 ## Documento Informatico, Fascicolazione, Conservazione
+
+* (link da cercare Linee guida sulla formazione, gestione e conservazione dei documenti informatici
+* (link da cercare) Linee guida per la stesura del piano di cessazione dei servizi di conservazione dei documenti digitali
+
+altro
 
 * (link da cercare) Linee guida documento informatico
 * (link da cercare) Lineee guida la costituzione, l'identificazione, l'accessibilità del fasciolo informatico
@@ -38,6 +48,7 @@
 * (link da cercare) Linee guida per le basi di dati di interesse nazionale
 * (link da cercare) Linee guida per la protezione, l'accessibilità, l'integrità e la riservatezza dei dati
 * (link da cercare) Linee guida per il Repertorio nazionale dei dati territoriali
+* (link da cercare) Linee guida su normalizzazione dei dati statistici trasmessi da Gestori PEC, Conservatori e Prestatori di servizi fiduciari qualificati
 
 ## Interoperabilità e strumenti per accesso ai servizi pubblici
 
